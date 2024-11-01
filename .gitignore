@@ -1,0 +1,8 @@
+/*
+!git/
+!.gitignore
+!/wp-content/
+/wp-content/**
+!/wp-content/themes/
+!/wp-content/themes/miac
+!/wp-content/themes/miac/**
