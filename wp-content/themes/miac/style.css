@@ -354,14 +354,10 @@ a {
     width: 100%;
 }
 
-.feedback-form input {
+.block-form input {
     font-size: 12px;
     width: 100%;
     height: 40px;
-}
-
-.feedback-form {
-    width: 100%;
 }
 
 .text-form {
