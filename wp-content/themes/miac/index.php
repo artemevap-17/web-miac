@@ -10,7 +10,7 @@
             </div>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img src="wp-content/themes/miac/images/slide.webp" class="d-block w-100" alt="...">
+                    <img src="<?php echo get_theme_file_uri( 'images/slide.webp' )?>" class="d-block w-100" alt="...">
                     <div class="carousel-caption">
                         <h2><b>Как записаться на прием к врачу через Единый портал государственных услуг</b></h2>
                         <p>Как записаться на прием к врачу подробности</p>
@@ -18,7 +18,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="wp-content/themes/miac/images/slide.webp" class="d-block w-100" alt="...">
+                    <img src="<?php echo get_theme_file_uri( 'images/slide.webp' )?>" class="d-block w-100" alt="...">
                     <div class="carousel-caption">
                         <h2><b>Как записаться на прием к врачу через Единый портал государственных услуг</b></h2>
                         <p>Как записаться на прием к врачу подробности</p>
@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img src="wp-content/themes/miac/images/slide.webp" class="d-block w-100" alt="...">
+                    <img src="<?php echo get_theme_file_uri( 'images/slide.webp' )?>" class="d-block w-100" alt="...">
                     <div class="carousel-caption">
                         <h2><b>Как записаться на прием к врачу через Единый портал государственных услуг</b></h2>
                         <p>Как записаться на прием к врачу подробности</p>
@@ -115,55 +115,55 @@
             <div class="link-desk">
                 <a href="#" class="link-card">
                     <div class="card-body">
-                        <h6 class="card-title">Мониторинг адресов <img src="wp-content/themes/miac/images/icon_check.png" alt="" class="icon"></h6>
+                        <h6 class="card-title">Мониторинг адресов <img src="<?php echo get_theme_file_uri( 'images/icon_check.png' )?>" alt="" class="icon"></h6>
                         <p class="card-text">сервис по проверке адресов медицинских учреждений</p>
                     </div>
                 </a>
                 <a href="#" class="link-card">
                     <div class="card-body">
-                        <h6 class="card-title">Мониторинг адресов <img src="wp-content/themes/miac/images/icon_check.png" alt="" class="icon"></h6>
+                        <h6 class="card-title">Мониторинг адресов <img src="<?php echo get_theme_file_uri( 'images/icon_check.png' )?>" alt="" class="icon"></h6>
                         <p class="card-text">сервис по проверке адресов медицинских учреждений</p>
                     </div>
                 </a>
                 <a href="#" class="link-card">
                     <div class="card-body">
-                        <h6 class="card-title">Мониторинг адресов <img src="wp-content/themes/miac/images/icon_check.png" alt="" class="icon"></h6>
+                        <h6 class="card-title">Мониторинг адресов <img src="<?php echo get_theme_file_uri( 'images/icon_check.png' )?>" alt="" class="icon"></h6>
                         <p class="card-text">сервис по проверке адресов медицинских учреждений</p>
                     </div>
                 </a>
                 <a href="#" class="link-card">
                     <div class="card-body">
-                        <h6 class="card-title">Мониторинг адресов <img src="wp-content/themes/miac/images/icon_check.png" alt="" class="icon"></h6>
+                        <h6 class="card-title">Мониторинг адресов <img src="<?php echo get_theme_file_uri( 'images/icon_check.png' )?>" alt="" class="icon"></h6>
                         <p class="card-text">сервис по проверке адресов медицинских учреждений</p>
                     </div>
                 </a>
                 <a href="#" class="link-card">
                     <div class="card-body">
-                        <h6 class="card-title">Мониторинг адресов <img src="wp-content/themes/miac/images/icon_check.png" alt="" class="icon"></h6>
+                        <h6 class="card-title">Мониторинг адресов <img src="<?php echo get_theme_file_uri( 'images/icon_check.png' )?>" alt="" class="icon"></h6>
                         <p class="card-text">сервис по проверке адресов медицинских учреждений</p>
                     </div>
                 </a>
                 <a href="#" class="link-card">
                     <div class="card-body">
-                        <h6 class="card-title">Мониторинг адресов <img src="wp-content/themes/miac/images/icon_check.png" alt="" class="icon"></h6>
+                        <h6 class="card-title">Мониторинг адресов <img src="<?php echo get_theme_file_uri( 'images/icon_check.png' )?>" alt="" class="icon"></h6>
                         <p class="card-text">сервис по проверке адресов медицинских учреждений</p>
                     </div>
                 </a>
                 <a href="#" class="link-card">
                     <div class="card-body">
-                        <h6 class="card-title">Мониторинг адресов <img src="wp-content/themes/miac/images/icon_check.png" alt="" class="icon"></h6>
+                        <h6 class="card-title">Мониторинг адресов <img src="<?php echo get_theme_file_uri( 'images/icon_check.png' )?>" alt="" class="icon"></h6>
                         <p class="card-text">сервис по проверке адресов медицинских учреждений</p>
                     </div>
                 </a>
                 <a href="#" class="link-card">
                     <div class="card-body">
-                        <h6 class="card-title">Мониторинг адресов <img src="wp-content/themes/miac/images/icon_check.png" alt="" class="icon"></h6>
+                        <h6 class="card-title">Мониторинг адресов <img src="<?php echo get_theme_file_uri( 'images/icon_check.png' )?>" alt="" class="icon"></h6>
                         <p class="card-text">сервис по проверке адресов медицинских учреждений</p>
                     </div>
                 </a>
                 <a href="#" class="link-card">
                     <div class="card-body">
-                        <h6 class="card-title">Мониторинг адресов <img src="wp-content/themes/miac/images/icon_check.png" alt="" class="icon"></h6>
+                        <h6 class="card-title">Мониторинг адресов <img src="<?php echo get_theme_file_uri( 'images/icon_check.png' )?>" alt="" class="icon"></h6>
                         <p class="card-text">сервис по проверке адресов медицинских учреждений</p>
                     </div>
                 </a>
@@ -171,7 +171,7 @@
             <div class="block-problem">
                 <div class="problem">
                     <div class="d-flex">
-                        <img src="wp-content/themes/miac/images/gosuslugi.png" alt="" class="img">
+                        <img src="<?php echo get_theme_file_uri( 'images/gosuslugi.png' )?>" alt="" class="img">
                     </div>
                     <div class="problem-body">
                         <h5>ГОСУСЛУГИ</h5>
